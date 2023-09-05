@@ -1,2 +1,3 @@
-# DoggyMaths2
-DoggyMaths 2.0 Comes Out And This Time Uses 3 Numbers not 4
+## DoggyMaths2
+
+An App Inventor 2 extension created using Rush.
